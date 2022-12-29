@@ -41,7 +41,7 @@
 * as Male
 * as Female
 * as Femboy
-* as Futa
+* as Intersex
 * as MtF trans
 * as FtM trans
 * as male & female
